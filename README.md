@@ -12,3 +12,7 @@ npm install
 ```
  npm start
 ```
+
+
+### Demo
+https://typescriptnoteapp.netlify.app/
