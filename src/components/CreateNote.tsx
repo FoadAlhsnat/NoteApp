@@ -1,4 +1,4 @@
-import React, { ReactHTMLElement, useState } from "react";
+import React, { useState } from "react";
 import { Button, Form, Alert } from "react-bootstrap";
 import { Note } from "../types";
 type CreateNoteProps = {

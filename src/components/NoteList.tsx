@@ -1,5 +1,4 @@
-import React, { ReactElement } from "react";
-import { nodeModuleNameResolver, setSyntheticLeadingComments } from "typescript";
+import React from "react";
 import { Note } from "../types";
 import Notes from "./Notes";
 type NoteListProps = {
